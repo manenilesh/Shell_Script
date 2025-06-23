@@ -2,7 +2,6 @@
 
 # Script to show how to use variable
 
-a=10
 name="Nilesh"
 age=22
 
